@@ -1,7 +1,8 @@
 // The World in One Day — 17 November 2026 (news-image-20261117, Node 22).
-// The entry is one image: a poster that sums up Tuesday 17 November 2026's
-// world news — six stories across regions and fields, plus three more in the
-// "Also today" strip. The image is drawn at build time (poster.html rendered
+// The entry is one image: a front-page poster that sums up Tuesday 17 November
+// 2026's world news — 35 stories across 6 continents: 3 illustrated leads, 12
+// numbered stories with icons, a world map with numbered dots, and 20 more
+// one-line briefs. The image is drawn at build time (poster-v2.html rendered
 // to entry.png) and this program copies it to /output/entry.png, byte for byte,
 // so both graded runs write identical bytes. Standard library only, no network.
 //
